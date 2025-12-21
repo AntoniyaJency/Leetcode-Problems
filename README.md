@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
+| [0070-climbing-stairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
