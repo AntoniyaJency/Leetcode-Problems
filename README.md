@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0071-simplify-path) |
+| [0093-restore-ip-addresses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0093-restore-ip-addresses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0071-simplify-path) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
