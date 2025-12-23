@@ -110,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
+| [0100-same-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0100-same-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0099-recover-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
