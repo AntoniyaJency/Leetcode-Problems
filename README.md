@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0097-interleaving-string) |
 ## Sliding Window
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0097-interleaving-string) |
