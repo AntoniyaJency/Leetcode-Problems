@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [2054-two-best-non-overlapping-events](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
+| [3074-apple-redistribution-into-boxes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Trie
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
+| [3074-apple-redistribution-into-boxes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [3074-apple-redistribution-into-boxes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 <!---LeetCode Topics End-->
