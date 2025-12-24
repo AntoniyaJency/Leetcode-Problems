@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2054-two-best-non-overlapping-events](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 ## Trie
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0029-divide-two-integers) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Tree
 |  |
 | ------- |
@@ -167,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3074-apple-redistribution-into-boxes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
+## Enumeration
+|  |
+| ------- |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
