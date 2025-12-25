@@ -37,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 ## Backtracking
@@ -179,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
