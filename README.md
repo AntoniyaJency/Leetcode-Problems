@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0587-erect-the-fence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0587-erect-the-fence) |
