@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0587-erect-the-fence) |
 | [0840-magic-squares-in-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0869-reordered-power-of-2](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0869-reordered-power-of-2) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1390-four-divisors](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1390-four-divisors) |
 ## Recursion
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1053-previous-permutation-with-one-swap](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1053-previous-permutation-with-one-swap) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1390-four-divisors](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0415-add-strings) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2402-meeting-rooms-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [3477-fruits-into-baskets-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Prefix Sum
