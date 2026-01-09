@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0840-magic-squares-in-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
+| [0500-keyboard-row](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sliding Window
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0495-teemo-attacking) |
+| [0500-keyboard-row](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0587-erect-the-fence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0587-erect-the-fence) |
