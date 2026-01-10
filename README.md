@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0500-keyboard-row) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Sliding Window
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0097-interleaving-string) |
 | [0509-fibonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
