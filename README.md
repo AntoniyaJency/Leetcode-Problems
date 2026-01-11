@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0097-interleaving-string) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0217-contains-duplicate](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0414-third-maximum-number) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Backtracking
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0463-island-perimeter](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0840-magic-squares-in-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [1975-maximum-matrix-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Simulation
 |  |
