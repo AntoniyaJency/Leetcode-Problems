@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0837-new-21-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0837-new-21-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0837-new-21-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0837-new-21-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0587-erect-the-fence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0587-erect-the-fence) |
+| [0837-new-21-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0837-new-21-game) |
 | [0840-magic-squares-in-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0869-reordered-power-of-2](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0869-reordered-power-of-2) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -346,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0869-reordered-power-of-2) |
 | [1051-height-checker](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1051-height-checker) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
