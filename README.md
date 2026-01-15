@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2402-meeting-rooms-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3453-separate-squares-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3453-separate-squares-i) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2402-meeting-rooms-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Heap (Priority Queue)
