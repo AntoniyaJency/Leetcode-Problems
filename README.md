@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2402-meeting-rooms-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3454-separate-squares-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3479-fruits-into-baskets-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Trie
 |  |
 | ------- |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Matrix
 |  |
 | ------- |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2402-meeting-rooms-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [3477-fruits-into-baskets-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3477-fruits-into-baskets-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3479-fruits-into-baskets-iii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Geometry
 |  |
 | ------- |
@@ -395,4 +400,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3454-separate-squares-ii) |
+## Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
