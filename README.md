@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1504-count-submatrices-with-all-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0869-reordered-power-of-2](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0869-reordered-power-of-2) |
 | [1051-height-checker](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2402-meeting-rooms-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [1053-previous-permutation-with-one-swap](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1053-previous-permutation-with-one-swap) |
 | [1323-maximum-69-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1323-maximum-69-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
