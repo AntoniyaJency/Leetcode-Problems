@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1053-previous-permutation-with-one-swap](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1053-previous-permutation-with-one-swap) |
+| [1200-minimum-absolute-difference](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0869-reordered-power-of-2](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0869-reordered-power-of-2) |
 | [1051-height-checker](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
