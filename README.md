@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1504-count-submatrices-with-all-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2054-two-best-non-overlapping-events](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1504-count-submatrices-with-all-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Backtracking
 |  |
 | ------- |
