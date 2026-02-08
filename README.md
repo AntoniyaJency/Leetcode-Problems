@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0414-third-maximum-number) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0605-can-place-flowers) |
