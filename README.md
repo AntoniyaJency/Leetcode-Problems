@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0139-word-break](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0097-interleaving-string) |
+| [0139-word-break](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0139-word-break) |
 | [0412-fizz-buzz](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0097-interleaving-string) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0837-new-21-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0837-new-21-game) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0414-third-maximum-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0414-third-maximum-number) |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0139-word-break) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Binary Search
 |  |
@@ -244,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
