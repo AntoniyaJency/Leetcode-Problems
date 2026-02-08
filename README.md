@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3227-vowels-game-in-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3227-vowels-game-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1390-four-divisors) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3227-vowels-game-in-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3227-vowels-game-in-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -485,4 +487,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2327-number-of-people-aware-of-a-secret) |
+## Brainteaser
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3227-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3227-vowels-game-in-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3227-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
