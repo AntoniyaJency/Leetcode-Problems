@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3484-design-spreadsheet](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3484-design-spreadsheet) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3227-vowels-game-in-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3227-vowels-game-in-a-string) |
+| [3484-design-spreadsheet](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3484-design-spreadsheet) |
 | [3713-longest-balanced-substring-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3714-longest-balanced-substring-ii) |
 ## Sliding Window
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3454-separate-squares-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3479-fruits-into-baskets-iii) |
+| [3484-design-spreadsheet](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3484-design-spreadsheet) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3484-design-spreadsheet](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3484-design-spreadsheet) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Greedy
 |  |
@@ -561,4 +565,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2353-design-a-food-rating-system](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2353-design-a-food-rating-system) |
+| [3484-design-spreadsheet](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3484-design-spreadsheet) |
 <!---LeetCode Topics End-->
