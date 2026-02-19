@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0500-keyboard-row) |
+| [0696-count-binary-substrings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0696-count-binary-substrings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Dynamic Programming
 |  |
