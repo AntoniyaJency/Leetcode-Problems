@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0097-interleaving-string) |
+| [0120-triangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0140-word-break-ii) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0136-single-number) |
