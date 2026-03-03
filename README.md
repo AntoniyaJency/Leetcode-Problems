@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0679-24-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0812-largest-triangle-area](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0778-swim-in-rising-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0101-symmetric-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0778-swim-in-rising-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -443,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [2054-two-best-non-overlapping-events](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2353-design-a-food-rating-system](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2353-design-a-food-rating-system) |
 | [2402-meeting-rooms-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
@@ -456,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0778-swim-in-rising-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -581,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Graph Theory
 |  |
