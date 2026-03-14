@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0761-special-binary-string) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0401-binary-watch](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0401-binary-watch) |
 | [0679-24-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0679-24-game) |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Tree
