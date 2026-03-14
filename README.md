@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3003-maximize-the-number-of-partitions-after-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3227-vowels-game-in-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3227-vowels-game-in-a-string) |
 | [3484-design-spreadsheet](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3484-design-spreadsheet) |
 | [3713-longest-balanced-substring-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3003-maximize-the-number-of-partitions-after-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-trionic-array-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [3003-maximize-the-number-of-partitions-after-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Stack
@@ -676,4 +679,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Bitmask
+|  |
+| ------- |
+| [3003-maximize-the-number-of-partitions-after-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
