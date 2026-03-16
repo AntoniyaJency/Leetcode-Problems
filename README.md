@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0010-regular-expression-matching) |
+| [0025-reverse-nodes-in-k-group](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0231-power-of-two](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0342-power-of-four) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
