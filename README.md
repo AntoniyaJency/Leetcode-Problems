@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0837-new-21-game) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2348-number-of-zero-filled-subarrays](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2353-design-a-food-rating-system](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2353-design-a-food-rating-system) |
 | [2402-meeting-rooms-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2573-find-the-string-with-lcp](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [2751-robot-collisions](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2751-robot-collisions) |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2528-maximize-the-minimum-powered-city) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2573-find-the-string-with-lcp](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3074-apple-redistribution-into-boxes) |
@@ -683,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2906-construct-product-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -771,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2327-number-of-people-aware-of-a-secret) |
+| [2528-maximize-the-minimum-powered-city](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2528-maximize-the-minimum-powered-city) |
 ## Brainteaser
 |  |
 | ------- |
