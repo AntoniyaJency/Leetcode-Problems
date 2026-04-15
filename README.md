@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2264-largest-3-same-digit-number-in-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2353-design-a-food-rating-system](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2353-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2353-design-a-food-rating-system) |
 | [2402-meeting-rooms-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2573-find-the-string-with-lcp](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
