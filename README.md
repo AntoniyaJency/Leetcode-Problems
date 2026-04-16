@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3484-design-spreadsheet](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3484-design-spreadsheet) |
+| [3488-closest-equal-element-queries](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3477-fruits-into-baskets-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3479-fruits-into-baskets-iii) |
 | [3484-design-spreadsheet](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3484-design-spreadsheet) |
+| [3488-closest-equal-element-queries](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3454-separate-squares-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3454-separate-squares-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3479-fruits-into-baskets-iii) |
+| [3488-closest-equal-element-queries](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Memoization
