@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3225-maximum-score-from-grid-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3484-design-spreadsheet](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3484-design-spreadsheet) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
@@ -761,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
