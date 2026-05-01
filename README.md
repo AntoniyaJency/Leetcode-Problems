@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0140-word-break-ii) |
+| [0396-rotate-function](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0799-champagne-tower](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0799-champagne-tower) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0441-arranging-coins) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0396-rotate-function](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
