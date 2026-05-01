@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3776-minimum-moves-to-balance-circular-array) |
 ## Trie
 |  |
 | ------- |
@@ -626,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3776-minimum-moves-to-balance-circular-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3776-minimum-moves-to-balance-circular-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3776-minimum-moves-to-balance-circular-array) |
 ## Enumeration
 |  |
 | ------- |
