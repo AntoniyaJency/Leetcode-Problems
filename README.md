@@ -406,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Trie
 |  |
 | ------- |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
