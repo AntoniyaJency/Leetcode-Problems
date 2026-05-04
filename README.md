@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0069-sqrtx) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
