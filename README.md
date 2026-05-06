@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0219-contains-duplicate-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0837-new-21-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0837-new-21-game) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0587-erect-the-fence) |
 | [0605-can-place-flowers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [0643-maximum-average-subarray-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0679-24-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
