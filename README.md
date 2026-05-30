@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1914-cyclically-rotating-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -1002,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
