@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0140-word-break-ii) |
+| [0171-excel-sheet-column-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0412-fizz-buzz) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
+| [0171-excel-sheet-column-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0342-power-of-four) |
