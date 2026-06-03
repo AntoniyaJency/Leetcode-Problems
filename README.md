@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0137-single-number-ii) |
@@ -989,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
