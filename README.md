@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0575-distribute-candies) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0693-binary-number-with-alternating-bits) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0217-contains-duplicate](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
