@@ -1,11 +1,11 @@
-import java.util.*;
 class Solution {
     public boolean checkIfPangram(String sentence) {
-        HashSet<Character> set=new HashSet<>();
+        Set<Character> set=new HashSet<>();
         for(int i=0;i<sentence.length();i++){
-            set.add(sentence.charAt(i));
+            char j=sentence.charAt(i);
+            set.add(j);
         }
-        if(set.size()==26) return true;
-        return false;
+        if(set.size()!=26) return false;
+        return true;
     }
 }
