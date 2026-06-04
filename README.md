@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
@@ -715,6 +717,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0389-find-the-difference) |
