@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1390-four-divisors) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1518-water-bottles](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1518-water-bottles) |
 | [1622-fancy-sequence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1688-count-of-matches-in-tournament) |
@@ -935,6 +936,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0874-walking-robot-simulation) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1518-water-bottles](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1688-count-of-matches-in-tournament) |
