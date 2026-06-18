@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-number-of-common-factors](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
+| [2739-total-distance-traveled](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2739-total-distance-traveled) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3227-vowels-game-in-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3227-vowels-game-in-a-string) |
@@ -950,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2327-number-of-people-aware-of-a-secret](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2402-meeting-rooms-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
+| [2739-total-distance-traveled](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2739-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3379-transformed-array) |
