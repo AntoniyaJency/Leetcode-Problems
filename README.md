@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1390-four-divisors) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1518-water-bottles](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1518-water-bottles) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1622-fancy-sequence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1688-count-of-matches-in-tournament) |
