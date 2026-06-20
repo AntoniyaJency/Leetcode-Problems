@@ -1,28 +1,43 @@
 class Solution {
-    public int maxBuilding(int num, int[][] restrictions) {
-        List<int[]> r = new ArrayList<>(Arrays.asList(restrictions));
-        r.add(new int[]{1, 0});
+
+    public int maxBuilding(int n, int[][] restrictions) {
+        // Convert the constraints to a list for manipulation
+        List<int[]> r = new ArrayList<>();
+        for (int[] res : restrictions) {
+            r.add(new int[] { res[0], res[1] });
+        }
+
+        // Add restriction (1, 0)
+        r.add(new int[] { 1, 0 });
+        // Sort by position
         r.sort((a, b) -> Integer.compare(a[0], b[0]));
-        int n = r.size();
+        // Add restriction (n, n-1)
+        if (r.get(r.size() - 1)[0] != n) {
+            r.add(new int[] { n, n - 1 });
+        }
 
-        for (int i = 1; i < n; i++)
-            r.get(i)[1] = yCap(r.get(i - 1), r.get(i));
+        int m = r.size();
 
-        for (int i = n - 2; i >= 0; i--)
-            r.get(i)[1] = yCap(r.get(i + 1), r.get(i));
+        // Pass restrictions from left to right
+        for (int i = 1; i < m; ++i) {
+            int dist = r.get(i)[0] - r.get(i - 1)[0];
+            r.get(i)[1] = Math.min(r.get(i)[1], r.get(i - 1)[1] + dist);
+        }
 
-        int res = 0;
-        for (int i = 1; i < n; i++)
-            res = Math.max(res, yPeak(r.get(i - 1), r.get(i)));
+        // Pass restrictions from right to left
+        for (int i = m - 2; i >= 0; --i) {
+            int dist = r.get(i + 1)[0] - r.get(i)[0];
+            r.get(i)[1] = Math.min(r.get(i)[1], r.get(i + 1)[1] + dist);
+        }
 
-        return Math.max(res, r.get(n - 1)[1] + num - r.get(n - 1)[0]);
-    }
+        int ans = 0;
+        for (int i = 0; i < m - 1; ++i) {
+            // Calculate the maximum height of the buildings between r[i][0] and r[i][1]
+            int dist = r.get(i + 1)[0] - r.get(i)[0];
+            int best = (dist + r.get(i)[1] + r.get(i + 1)[1]) / 2;
+            ans = Math.max(ans, best);
+        }
 
-    int yCap(int[] l, int[] b) {
-        return Math.min(b[1], l[1] + Math.abs(b[0] - l[0]));
-    }
-
-    int yPeak(int[] l, int[] b) {
-        return (l[1] + b[1] + b[0] - l[0]) >> 1;
+        return ans;
     }
 }
