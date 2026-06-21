@@ -622,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0342-power-of-four) |
@@ -1119,6 +1120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0761-special-binary-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
