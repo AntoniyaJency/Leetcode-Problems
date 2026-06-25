@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0766-toeplitz-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0766-toeplitz-matrix) |
 | [0778-swim-in-rising-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0812-largest-triangle-area](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0766-toeplitz-matrix) |
 | [0778-swim-in-rising-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
