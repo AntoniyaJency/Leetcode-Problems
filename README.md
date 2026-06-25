@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0202-happy-number) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0085-maximal-rectangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0120-triangle) |
@@ -786,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0242-valid-anagram) |
