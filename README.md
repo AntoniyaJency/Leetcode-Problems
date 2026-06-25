@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -1047,6 +1049,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -1058,6 +1061,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3777-minimum-deletions-to-make-alternating-substring](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3777-minimum-deletions-to-make-alternating-substring) |
 ## Ordered Set
 |  |
@@ -1089,6 +1093,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [2833-furthest-point-from-origin](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -1160,6 +1165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -1229,4 +1235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
