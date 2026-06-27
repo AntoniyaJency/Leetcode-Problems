@@ -1,4 +1,4 @@
-class Solution {
+//class Solution {
     //public int[] maxSlidingWindow(int[] nums, int k) {
        /* ArrayDeque<Integer> queue=new ArrayDeque<>();
         int max=0;
@@ -16,9 +16,9 @@ class Solution {
 
         }*/
 
-public int[] maxSlidingWindow(int[] nums, int k) {
+//public int[] maxSlidingWindow(int[] nums, int k) {
   
-    int n = nums.length;
+    /*int n = nums.length;
     if (n == 0 || k == 0) {
         return new int[0];
     }
@@ -39,6 +39,26 @@ public int[] maxSlidingWindow(int[] nums, int k) {
             result[i - k + 1] = nums[win.peekFirst()];
         
     }
-    return result;
-    } 
+    return result;*/
+
+    class Solution {
+    public int[] maxSlidingWindow(int[] nums, int k) {
+        int n = nums.length;
+        int[] result = new int[n - k + 1];
+        ArrayDeque<Integer> dq = new ArrayDeque<>();
+        int j = 0;
+        for(int i = 0; i < n; i++) {
+            while(!dq.isEmpty() && nums[dq.peekLast()] < nums[i]) 
+                dq.pollLast();
+            dq.offerLast(i);
+            if(dq.peekFirst() == i - k) 
+                dq.pollFirst();
+            if(i >= k - 1) 
+                result[j++] = nums[dq.peekFirst()];
+        }
+
+        return result;
+    }
 }
+    
+
