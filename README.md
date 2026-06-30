@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-champagne-tower](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0799-champagne-tower) |
 | [0837-new-21-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0837-new-21-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1137-n-th-tribonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1340-jump-game-v) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1103-distribute-candies-to-people](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1103-distribute-candies-to-people) |
+| [1137-n-th-tribonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1323-maximum-69-number) |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 ## String Matching
 |  |
 | ------- |
