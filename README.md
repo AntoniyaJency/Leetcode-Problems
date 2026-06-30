@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0746-min-cost-climbing-stairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0799-champagne-tower) |
 | [0837-new-21-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0837-new-21-game) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0766-toeplitz-matrix) |
 | [0778-swim-in-rising-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [0812-largest-triangle-area](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
