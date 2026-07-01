@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0869-reordered-power-of-2) |
 | [0976-largest-perimeter-triangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
