@@ -1,20 +1,16 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        //if(s.length()!=t.length()) return false;
-        Map<Character,Character> m1=new HashMap<>();
-        Map<Character,Character> m2=new HashMap<>();
+        int[] freq1=new int[256];
+        int[] freq2=new int[256];
         for(int i=0;i<s.length();i++){
             char sc=s.charAt(i);
             char tc=t.charAt(i);
-            if(m1.containsKey(sc))
-                if(m1.get(sc)!=tc) return false;
-            if(m2.containsKey(tc))
-                if(m2.get(tc)!=sc) return false;
-            m1.put(sc,tc);
-            m2.put(tc,sc);
-            
+            if(freq1[sc]!=freq2[tc]) return false;
+            freq1[sc]=i+1;
+            freq2[tc]=i+1;
         }
 
         return true;
-} 
+        
+    } 
 }
