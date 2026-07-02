@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -836,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3607-power-grid-maintenance](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3607-power-grid-maintenance) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sorting
@@ -908,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -964,6 +967,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3197-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3197-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3484-design-spreadsheet](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3484-design-spreadsheet) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
@@ -1197,6 +1201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3607-power-grid-maintenance](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3607-power-grid-maintenance) |
 ## Shortest Path
@@ -1204,6 +1209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Queue
 |  |
 | ------- |
