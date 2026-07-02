@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0168-excel-sheet-column-title](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
