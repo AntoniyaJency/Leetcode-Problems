@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3620-network-recovery-pathways](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3660-jump-game-ix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3660-jump-game-ix) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3607-power-grid-maintenance](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3607-power-grid-maintenance) |
+| [3620-network-recovery-pathways](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
@@ -667,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3479-fruits-into-baskets-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3479-fruits-into-baskets-iii) |
 | [3488-closest-equal-element-queries](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -923,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3607-power-grid-maintenance](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3607-power-grid-maintenance) |
+| [3620-network-recovery-pathways](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Matrix
 |  |
@@ -1211,12 +1215,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3607-power-grid-maintenance](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3607-power-grid-maintenance) |
+| [3620-network-recovery-pathways](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
 ## Queue
 |  |
 | ------- |
@@ -1338,4 +1344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
