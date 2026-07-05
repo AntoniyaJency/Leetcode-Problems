@@ -778,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0463-island-perimeter) |
@@ -835,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -858,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0199-binary-tree-right-side-view](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
