@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
@@ -1141,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
