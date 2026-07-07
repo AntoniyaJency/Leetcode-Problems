@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0396-rotate-function](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1039,6 +1040,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0605-can-place-flowers) |
