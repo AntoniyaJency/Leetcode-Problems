@@ -1107,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0869-reordered-power-of-2](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0869-reordered-power-of-2) |
+| [1291-sequential-digits](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1291-sequential-digits) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2427-number-of-common-factors](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
