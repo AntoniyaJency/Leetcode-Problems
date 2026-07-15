@@ -18,7 +18,5 @@ class Solution {
         }
 
         return Arrays.asList(only1, only2);
-
-        
     }
 }
