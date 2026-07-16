@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0139-word-break) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0068-text-justification) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0056-merge-intervals) |
@@ -936,6 +939,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
