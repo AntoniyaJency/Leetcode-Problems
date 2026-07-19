@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -796,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1504-count-submatrices-with-all-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2197-replace-non-coprime-numbers-in-array) |
@@ -1102,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0976-largest-perimeter-triangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1053-previous-permutation-with-one-swap](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1053-previous-permutation-with-one-swap) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1323-maximum-69-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 | [1382-balance-a-binary-search-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1488-avoid-flood-in-the-city](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1488-avoid-flood-in-the-city) |
@@ -1156,6 +1159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0085-maximal-rectangle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1504-count-submatrices-with-all-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 ## Simulation
 |  |
