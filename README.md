@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0837-new-21-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0837-new-21-game) |
+| [1004-max-consecutive-ones-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
+| [1004-max-consecutive-ones-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1053-previous-permutation-with-one-swap](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1053-previous-permutation-with-one-swap) |
 | [1200-minimum-absolute-difference](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
@@ -714,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
+| [1004-max-consecutive-ones-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1488-avoid-flood-in-the-city](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1488-avoid-flood-in-the-city) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -1214,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
