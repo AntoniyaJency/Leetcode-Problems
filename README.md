@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2353-design-a-food-rating-system](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2353-design-a-food-rating-system) |
+| [2390-removing-stars-from-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -833,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2197-replace-non-coprime-numbers-in-array) |
+| [2390-removing-stars-from-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2751-robot-collisions) |
 ## Backtracking
 |  |
@@ -1230,6 +1232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2352-equal-row-and-column-pairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2739-total-distance-traveled](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2739-total-distance-traveled) |
