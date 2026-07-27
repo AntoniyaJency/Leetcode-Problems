@@ -7,7 +7,7 @@ class Solution {
         while (right < nums.length) {
             sum += nums[right];
             while (sum >= target) {
-                // Update minimum length and shrink the window
+                
                 ans = Math.min(ans, right - left + 1);
                 sum -= nums[left];
                 left++;
