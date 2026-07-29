@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Array
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
