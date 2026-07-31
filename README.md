@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0840-magic-squares-in-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0587-erect-the-fence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0587-erect-the-fence) |
@@ -1288,6 +1290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
