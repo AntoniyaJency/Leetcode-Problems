@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0587-erect-the-fence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0587-erect-the-fence) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Array
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -1456,6 +1460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [3227-vowels-game-in-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3227-vowels-game-in-a-string) |
 ## Divide and Conquer
 |  |
