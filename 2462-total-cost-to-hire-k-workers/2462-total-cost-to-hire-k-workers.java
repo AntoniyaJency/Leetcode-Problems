@@ -1,31 +1,30 @@
 class Solution {
     public long totalCost(int[] costs, int k, int candidates) {
-        int n = costs.length;
+        int i = 0;
+        int j = costs.length - 1;
+        PriorityQueue<Integer> pq1 = new PriorityQueue<>();
+        PriorityQueue<Integer> pq2 = new PriorityQueue<>();
 
-        PriorityQueue<Integer> left = new PriorityQueue<>();
-        PriorityQueue<Integer> right = new PriorityQueue<>();
+        long ans = 0;
+        while (k-- > 0) {
+            while (pq1.size() < candidates && i <= j) {
+                pq1.offer(costs[i++]);
+            }
+            while (pq2.size() < candidates && i <= j) {
+                pq2.offer(costs[j--]);
+            }
 
-        int l = 0, r = n - 1;
+            int t1 = pq1.size() > 0 ? pq1.peek() : Integer.MAX_VALUE;
+            int t2 = pq2.size() > 0 ? pq2.peek() : Integer.MAX_VALUE;
 
-        for (int i = 0; i < candidates && l <= r; i++) 
-            left.add(costs[l++]);
-        
-        for (int i = 0; i < candidates && l <= r; i++) 
-            right.add(costs[r--]);
-        
-
-        long total = 0;
-
-        for (int i = 0; i < k; i++) {
-            if (right.isEmpty() || (!left.isEmpty() && left.peek() <= right.peek())) {
-                total += left.poll();
-                if (l <= r) left.add(costs[l++]);
+            if (t1 <= t2) {
+                ans += t1;
+                pq1.poll();
             } else {
-                total += right.poll();
-                if (l <= r) right.add(costs[r--]);
+                ans += t2;
+                pq2.poll();
             }
         }
-
-        return total;
+        return ans;
     }
 }
