@@ -5,10 +5,12 @@ class Solution {
 
         List<Integer> ans = new ArrayList<>();
 
-        for (int i = nums[0]; i <=nums[nums.length-1]; i++) 
-            ans.add(i);
-        for (int i = 0; i < nums.length; i++) 
-             if(ans.contains(nums[i])) ans.remove(Integer.valueOf(nums[i]));
+        for (int i = 0; i < nums.length - 1; i++) {
+            for (int j = nums[i] + 1; j < nums[i + 1]; j++) {
+                ans.add(j);
+            }
+        }
+
         return ans;
     }
 }
