@@ -5,7 +5,7 @@ class Solution {
 
         while (left < right) {
 
-            // skip non-alphanumeric
+            
             while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
                 left++;
             }
@@ -14,7 +14,7 @@ class Solution {
                 right--;
             }
 
-            // compare lowercase
+            
             if (Character.toLowerCase(s.charAt(left)) != 
                 Character.toLowerCase(s.charAt(right))) {
                 return false;
