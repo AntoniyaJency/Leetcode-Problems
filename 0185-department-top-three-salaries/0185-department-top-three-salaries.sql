@@ -1,17 +1,9 @@
 # Write your MySQL query statement below
-
-with etl as (
-        select  e.id,
-                d.name as department, 
-                e.name employee, e.salary,
-                dense_rank() over(partition by e.departmentId order by e.salary desc) as rankk
-        from employee e
-        left join Department d
-        on e.departmentId = d.id
-)
-
-select  department, 
-        employee, 
-        salary 
-from etl 
-where rankk <= 3
+select Department,Employee,Salary from(
+    select d.name as Department,e.name as Employee,e.salary as Salary,
+    dense_rank() over(partition by d.name order by e.salary desc) as rn
+    from Department d
+    join Employee e
+    on e.departmentId=d.id
+) t
+where rn<4
