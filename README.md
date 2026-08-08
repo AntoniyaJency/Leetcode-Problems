@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0500-keyboard-row) |
+| [0649-dota2-senate](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0709-to-lower-case) |
@@ -1214,6 +1215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [0649-dota2-senate](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0649-dota2-senate) |
 | [0976-largest-perimeter-triangle](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1053-previous-permutation-with-one-swap](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1053-previous-permutation-with-one-swap) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1492,6 +1494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2528-maximize-the-minimum-powered-city) |
