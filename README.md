@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1137-n-th-tribonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1301-number-of-paths-with-max-score](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1103-distribute-candies-to-people](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1140-stone-game-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1323-maximum-69-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1323-maximum-69-number) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1051-height-checker) |
 | [1053-previous-permutation-with-one-swap](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1053-previous-permutation-with-one-swap) |
+| [1140-stone-game-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -1339,6 +1342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -1507,6 +1511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [3227-vowels-game-in-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3227-vowels-game-in-a-string) |
 ## Divide and Conquer
@@ -1673,4 +1678,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
