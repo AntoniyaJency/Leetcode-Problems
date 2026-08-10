@@ -1699,4 +1699,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
