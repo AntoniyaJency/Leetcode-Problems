@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0072-edit-distance) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0069-sqrtx) |
@@ -1582,6 +1584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
