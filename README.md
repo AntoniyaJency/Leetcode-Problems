@@ -1667,6 +1667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1978-employees-whose-manager-left-the-company](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3374-first-letter-capitalization-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3374-first-letter-capitalization-ii) |
+| [3465-find-products-with-valid-serial-numbers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3465-find-products-with-valid-serial-numbers) |
 ## Merge Sort
 |  |
 | ------- |
