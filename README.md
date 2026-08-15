@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2540-minimum-common-value](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2540-minimum-common-value) |
+| [2542-maximum-subsequence-score](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2542-maximum-subsequence-score) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -1112,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2402-meeting-rooms-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [2463-minimum-total-distance-traveled](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2463-minimum-total-distance-traveled) |
+| [2542-maximum-subsequence-score](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2542-maximum-subsequence-score) |
 | [2751-robot-collisions](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -1152,6 +1154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2353-design-a-food-rating-system) |
 | [2402-meeting-rooms-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2402-meeting-rooms-iii) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2542-maximum-subsequence-score](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -1261,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2542-maximum-subsequence-score](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2542-maximum-subsequence-score) |
 | [2573-find-the-string-with-lcp](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2598-smallest-missing-non-negative-integer-after-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2598-smallest-missing-non-negative-integer-after-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
