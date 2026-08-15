@@ -1668,6 +1668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3374-first-letter-capitalization-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3374-first-letter-capitalization-ii) |
 | [3465-find-products-with-valid-serial-numbers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3465-find-products-with-valid-serial-numbers) |
+| [3475-dna-pattern-recognition](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3475-dna-pattern-recognition) |
 ## Merge Sort
 |  |
 | ------- |
