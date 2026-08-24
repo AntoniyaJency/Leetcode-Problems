@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -947,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0140-word-break-ii) |
 | [0401-binary-watch](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0679-24-game) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1980-find-unique-binary-string) |
@@ -1779,6 +1782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1795,4 +1799,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
