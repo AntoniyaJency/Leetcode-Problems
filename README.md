@@ -1823,4 +1823,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0204-count-primes) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
