@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3003-maximize-the-number-of-partitions-after-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3003-maximize-the-number-of-partitions-after-operations) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2528-maximize-the-minimum-powered-city) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
