@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3908-valid-digit-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3945-digit-frequency-score) |
 ## Recursion
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3776-minimum-moves-to-balance-circular-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3776-minimum-moves-to-balance-circular-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3921-score-validator](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3921-score-validator) |
 ## Trie
 |  |
