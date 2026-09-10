@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0414-third-maximum-number) |
@@ -859,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0611-valid-triangle-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
@@ -1141,6 +1145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
