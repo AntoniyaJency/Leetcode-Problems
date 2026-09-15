@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2353-design-a-food-rating-system](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2353-design-a-food-rating-system) |
 | [2390-removing-stars-from-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2540-minimum-common-value) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2054-two-best-non-overlapping-events) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2463-minimum-total-distance-traveled](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2463-minimum-total-distance-traveled) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -1343,6 +1346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2528-maximize-the-minimum-powered-city) |
 | [2542-maximum-subsequence-score](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2542-maximum-subsequence-score) |
 | [2573-find-the-string-with-lcp](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2573-find-the-string-with-lcp) |
