@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1872-stone-game-viii) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1513-number-of-substrings-with-only-1s](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1518-water-bottles](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1688-count-of-matches-in-tournament) |
@@ -1461,6 +1463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1480-running-sum-of-1d-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1871-jump-game-vii) |
@@ -1706,6 +1709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0062-unique-paths) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
