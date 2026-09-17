@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1488-avoid-flood-in-the-city](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1488-avoid-flood-in-the-city) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1871-jump-game-vii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1504-count-submatrices-with-all-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1510-stone-game-iv) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1470-shuffle-the-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1488-avoid-flood-in-the-city](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1488-avoid-flood-in-the-city) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -883,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
 | [1004-max-consecutive-ones-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1488-avoid-flood-in-the-city](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1488-avoid-flood-in-the-city) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1970-last-day-where-you-can-still-cross) |
