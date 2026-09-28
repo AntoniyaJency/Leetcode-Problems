@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -1000,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1504-count-submatrices-with-all-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2197-replace-non-coprime-numbers-in-array) |
@@ -1908,6 +1910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## 0-1 Knapsack
 |  |
 | ------- |
