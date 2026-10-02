@@ -1,29 +1,23 @@
 class Solution {
-    public static List<String>ans=new ArrayList<>();
-    public static void  generating( char []a,int idx,int n,int oc,int cc){
-        if(idx==n){
-                ans.add(new String(a));
-             return;
+    List<String> res = new ArrayList<>();
 
-        }
-
-        if(oc<n/2){
-            a[idx]='(';
-            generating(a,idx+1,n,oc+1,cc);
-
-        }
-
-        if(oc>cc){
-            a[idx]=')';
-            generating(a,idx+1,n,oc,cc+1);
-        }
-       
-    }
     public List<String> generateParenthesis(int n) {
-        char a[]=new char[2*n];
-        ans.clear();
-        generating(a,0,2*n,0,0);
-         return ans;
-        
+        if (n-- == 1) return List.of("()");
+        dfs(n, n, "(");
+
+        return res;
+    }
+
+    private void dfs(int O, int C, String s) {
+        if (O == 0 && C == 0) {
+            res.add(s + ")");
+            return;
+        }
+
+        if (O > 0)
+            dfs(O - 1, C, s + "(");
+
+        if (C >= O)
+            dfs(O, C - 1, s + ")");
     }
 }
