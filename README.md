@@ -688,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1254-number-of-closed-islands](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -1113,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0872-leaf-similar-trees](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1306-jump-game-iii) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -1188,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1096-brace-expansion-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -1332,6 +1335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -1666,6 +1670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0778-swim-in-rising-water) |
+| [1254-number-of-closed-islands](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
