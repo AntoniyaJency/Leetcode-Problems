@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
 ## Two Pointers
@@ -848,6 +849,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3453-separate-squares-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -1065,6 +1067,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2390-removing-stars-from-a-string](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2751-robot-collisions) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -1520,6 +1523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1504-count-submatrices-with-all-ones](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1504-count-submatrices-with-all-ones) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -1623,6 +1627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3161-block-placement-queries](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3161-block-placement-queries) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3454-separate-squares-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3479-fruits-into-baskets-iii) |
@@ -1762,6 +1767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2528-maximize-the-minimum-powered-city](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/2528-maximize-the-minimum-powered-city) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Brainteaser
 |  |
 | ------- |
@@ -1940,6 +1946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Quickselect
 |  |
 | ------- |
