@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3318-find-x-sum-of-all-k-long-subarrays-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3634-minimum-removals-to-balance-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3634-minimum-removals-to-balance-array) |
@@ -845,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3379-transformed-array](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3379-transformed-array) |
 | [3397-maximum-number-of-distinct-elements-after-operations](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3397-maximum-number-of-distinct-elements-after-operations) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -1609,6 +1611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3347-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3347-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3364-minimum-positive-sum-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3546-equal-sum-grid-partition-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3699-number-of-zigzag-arrays-i) |
