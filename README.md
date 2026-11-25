@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 | [3945-digit-frequency-score](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -928,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3904-smallest-stable-index-ii) |
 | [3921-score-validator](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3921-score-validator) |
+| [3934-smallest-unique-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -994,6 +996,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3934-smallest-unique-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Memoization
 |  |
 | ------- |
@@ -1849,10 +1852,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -2076,4 +2081,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/AntoniyaJency/Leetcode-Problems/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
